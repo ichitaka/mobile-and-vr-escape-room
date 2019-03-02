@@ -1,0 +1,9 @@
+BUILD:::::
+#####Für PC(Vive)#####
+#####SteamVR Recommended Settings bei Anfrage annehmen.
+#####Die Szenen (Start, AndroidRoom, EndScene) eingeziehen.
+######################
+#####Für Android######
+#####Die Szenen (AndroidStart, AndroidRoom, EndScene) einbeziehen.
+#####Unter File -> Project Settings -> Player -> Other Settings alle Einstellungen mit einem Asterix ausschalten
+#####Im gleichen Menü zusätzlich Virtual Reality Supported ausschalten
